@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>content</key>
-        <string>
+<dict>
+	<key>content</key>
+	<string>
 when ${1:expression} then
-  ${2}
+    ${2}
 end when;
 </string>
-        <key>tabTrigger</key>
-        <string>when</string>
-        <key>scope</key>
-        <string>source.modelica</string>
-        <key>name</key>
-        <string>Modelica when clause</string>
-        <key>uuid</key>
-        <string>B15B767C-E3BA-404D-BD89-40A1ACC91B1F</string>
-    </dict>
+	<key>name</key>
+	<string>Modelica when clause</string>
+	<key>scope</key>
+	<string>source.modelica</string>
+	<key>tabTrigger</key>
+	<string>when</string>
+	<key>uuid</key>
+	<string>B15B767C-E3BA-404D-BD89-40A1ACC91B1F</string>
+</dict>
 </plist>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>content</key>
-        <string>
+<dict>
+	<key>content</key>
+	<string>
 class ${1:ClassName} "${2:Description}"
-  ${3}
+    ${3}
 equation
-  ${4}
+    ${4}
 end ${1:ClassName};
 </string>
-        <key>tabTrigger</key>
-        <string>class</string>
-        <key>scope</key>
-        <string>source.modelica</string>
-        <key>name</key>
-        <string>Modelica class</string>
-        <key>uuid</key>
-        <string>09F3A546-D364-4B11-8768-2181E0911954</string>
-    </dict>
+	<key>name</key>
+	<string>Modelica class</string>
+	<key>scope</key>
+	<string>source.modelica</string>
+	<key>tabTrigger</key>
+	<string>class</string>
+	<key>uuid</key>
+	<string>09F3A546-D364-4B11-8768-2181E0911954</string>
+</dict>
 </plist>
