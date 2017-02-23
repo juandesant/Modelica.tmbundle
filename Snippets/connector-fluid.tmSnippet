@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>content</key>
+        <string>
+connector ${1}
+  ${2}
+  flow ${3};
+end ${1};
+</string>
+        <key>tabTrigger</key>
+        <string>connector</string>
+        <key>scope</key>
+        <string>source.modelica</string>
+        <key>name</key>
+        <string>Modelica fluid connector definition</string>
+        <key>uuid</key>
+        <string>05C3B2B7-C3D8-42F8-913A-07253694B375</string>
+    </dict>
+</plist>

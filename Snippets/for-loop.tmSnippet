@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>content</key>
+        <string>
+for ${1:i} in ${2:enum} loop
+  ${3}
+end for;
+</string>
+        <key>tabTrigger</key>
+        <string>for</string>
+        <key>scope</key>
+        <string>source.modelica</string>
+        <key>name</key>
+        <string>Modelica for loop</string>
+        <key>uuid</key>
+        <string>C27D52FC-26D3-4B0B-BA43-C4095D327DCC</string>
+    </dict>
+</plist>

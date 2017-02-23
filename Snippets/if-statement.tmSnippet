@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>content</key>
+        <string>
+if ${1:condition} then
+  ${2}
+end if;
+</string>
+        <key>tabTrigger</key>
+        <string>if</string>
+        <key>scope</key>
+        <string>source.modelica</string>
+        <key>name</key>
+        <string>Modelica: if statement</string>
+        <key>uuid</key>
+        <string>994845D3-B434-4238-B7B2-CB319367CA47</string>
+    </dict>
+</plist>

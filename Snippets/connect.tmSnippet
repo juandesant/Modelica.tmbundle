@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>content</key>
+        <string>
+connect(${1:connector1}, ${2:connector2});
+</string>
+        <key>tabTrigger</key>
+        <string>connect</string>
+        <key>scope</key>
+        <string>source.modelica</string>
+        <key>name</key>
+        <string>Modelica connect-equation</string>
+        <key>uuid</key>
+        <string>3069E905-A6B4-487D-BDE7-56C04A936511</string>
+    </dict>
+</plist>
