@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.juandesant.Modelica-bundle</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.developer-tools</string>
+	<key>contactEmailRot13</key>
+	<string>whnaqrfnag@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Juande Santander-Vela</string>
+	<key>defaultScopeSelector</key>
+	<string>source.modelica</string>
+	<key>description</key>
+	<string>Support for syntax-highlighting, code-folding, and snippets for Modelica language http://openmodelica.org/</string>
+	<key>uuid</key>
+	<string>CED35744-FA1C-4000-878F-46FDB1B84A44</string>
+</dict>
+</plist>
