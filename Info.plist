@@ -4,8 +4,6 @@
 <dict>
 	<key>CFBundleIdentifier</key>
 	<string>com.juandesant.Modelica</string>
-	<key>name</key>
-	<string>Modelica</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.developer-tools</string>
 	<key>contactEmailRot13</key>
@@ -15,7 +13,9 @@
 	<key>defaultScopeSelector</key>
 	<string>source.modelica</string>
 	<key>description</key>
-	<string>Support for syntax-highlighting, code-folding, and snippets for Modelica language http://openmodelica.org/</string>
+	<string>Support for syntax-highlighting, code-folding, and snippets for the Modelica language http://openmodelica.org/</string>
+	<key>name</key>
+	<string>Modelica</string>
 	<key>uuid</key>
 	<string>CED35744-FA1C-4000-878F-46FDB1B84A44</string>
 </dict>
