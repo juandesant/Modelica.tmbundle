@@ -6,10 +6,10 @@ This repository here is the result of an automatic conversion from Sublime Text 
 [wikihow]: wiki/How-was-this-bundle-created%3F
 [wikiack]: wiki/Acknowledgements
 
-Finally, [Acknowledgements][wikiack] can be found also in the wiki.
+Finally, [Acknowledgements][wikiack] can be found also in the project's wiki.
 
 ## Installation
 
-Full [installation instructions][wikinstall] are also in the [wiki][wikinstall].
+Full [installation instructions][wikinstall] are also in the wiki.
 
 [wikinstall]: https://github.com/juandesant/Modelica.tmbundle/wiki/Installation-instructions
