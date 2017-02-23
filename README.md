@@ -1,18 +1,15 @@
 # Modelica.tmbundle
-TextMate bundle for Modelica and OpenModelica language hightlighting, folding, etc
+TextMate bundle for Modelica and OpenModelica language hightlighting, folding, etc.
 
-This repository here is the result of an automatic conversion from Sublime Text to TextMate
+This repository here is the result of an automatic conversion from Sublime Text to TextMate. Details can be found on [this project's wiki][wikihow].
 
-The original Sublime Text package created by @BorisChumichev. is here:
+[wikihow]: wiki/How-was-this-bundle-created%3F
+[wikiack]: wiki/Acknowledgements
 
-https://github.com/BorisChumichev/modelicaSublimeTextPackage
+Finally, [Acknowledgements][wikiack] can be found also in the wiki.
 
-The Sublime Text to TextMate conversion was done using the `ant` script and XML/XSL files from:
+## Installation
 
-https://github.com/srbs/textmate-to-sublime-converter
+Full [installation instructions][wikinstall] are also in the [wiki][wikinstall].
 
-Credits for that conversion script go to @srbs.
-
-A step-by-step guide on how to use those scripts to generate and use a TextMate bundle can be found in this project's wiki
-
-Installation instructions can also be found on the wiki.
+[wikinstall]: https://github.com/juandesant/Modelica.tmbundle/wiki/Installation-instructions
